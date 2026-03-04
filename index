@@ -145,7 +145,7 @@
                 <a href="#sobre" class="text-white/70 hover:text-white text-xs uppercase tracking-widest font-light">O Sistema</a>
                 <a href="#modulos" class="text-white/70 hover:text-white text-xs uppercase tracking-widest font-light">Módulos</a>
                 <a href="#fluxo" class="text-white/70 hover:text-white text-xs uppercase tracking-widest font-light">Operação</a>
-                <a href="#contato" class="bg-blue-600 hover:bg-blue-500 text-white px-6 py-2 rounded text-xs uppercase tracking-widest font-bold transition-all">Contato</a>
+                <a href="#contato" class="bg-blue-600 hover:bg-blue-500 text-white px-6 py-2 rounded text-xs uppercase tracking-widest font-bold transition-all">Demonstração</a>
             </div>
         </div>
     </nav>
@@ -156,10 +156,13 @@
                 <h1 class="text-white text-5xl md:text-7xl font-bold tracking-tighter mb-4">ARGUS <span class="text-blue-400 font-light italic">Experience</span></h1>
             </div>
             <p class="text-blue-100/70 text-lg md:text-xl font-light leading-relaxed max-w-3xl mx-auto mt-6">
-                <br class="hidden md:block"> 
+                Plataforma Enterprise para Gestão da Experiência do Paciente. <br class="hidden md:block"> 
                 Governança, Inteligência Artificial e Humanização em um único ecossistema.
             </p>
-            
+            <div class="mt-10 flex flex-col md:flex-row gap-4 justify-center">
+                <div class="px-6 py-3 border border-blue-400/30 rounded-full text-blue-200 text-xs uppercase tracking-widest">WMTY Integration</div>
+                <div class="px-6 py-3 border border-blue-400/30 rounded-full text-blue-200 text-xs uppercase tracking-widest">AI Powered Analytics</div>
+                <div class="px-6 py-3 border border-blue-400/30 rounded-full text-blue-200 text-xs uppercase tracking-widest">Multi-Tenant Architecture</div>
             </div>
         </div>
     </header>
@@ -167,7 +170,7 @@
     <section id="sobre" class="py-24 bg-white">
         <div class="max-w-5xl mx-auto px-6">
             <div class="text-center mb-16">
-                <span class="text-blue-600 font-bold text-xs uppercase tracking-[0.3em] mb-4 block"</span>
+                <span class="text-blue-600 font-bold text-xs uppercase tracking-[0.3em] mb-4 block">Patient-Centric Care</span>
                 <h3 class="text-4xl font-light text-slate-900">A Jornada do Paciente sob <span class="font-bold text-blue-700">Nova Perspectiva</span></h3>
             </div>
             <div class="space-y-12">
@@ -200,7 +203,7 @@
     <section id="modulos" class="py-24 bg-slate-50">
         <div class="max-w-7xl mx-auto px-6">
             <div class="mb-16">
-                <span class="text-blue-600 font-bold text-xs uppercase tracking-[0.3em] mb-4 block"></span>
+                <span class="text-blue-600 font-bold text-xs uppercase tracking-[0.3em] mb-4 block">Ecossistema Argus</span>
                 <h3 class="text-3xl font-light text-slate-900">Módulos de Gestão e <span class="font-bold text-blue-800">Experiência</span>.</h3>
             </div>
             
